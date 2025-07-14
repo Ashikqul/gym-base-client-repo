@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Johnson",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztF5-VctouPbhiyk_3ZkFx9y5k8lgm4sPBMo4dfI4qG5j3Q9y-nmg704wrw0JyA37nnI&usqp=CAU",
+    "experience": 10,
+    "social": {
+      "facebook": "https://facebook.com/alex",
+      "instagram": "https://instagram.com/alex",
+      "twitter": "https://twitter.com/alex"
+    },
+    "bio": "Certified strength coach with 10+ years of experience in bodybuilding and rehab.",
+    "expertise": ["Strength", "Bodybuilding", "Rehab"],
+    "slots": ["9:00 AM", "11:00 AM", "3:00 PM"]
+  },
+  {
+    "id": "2",
+    "name": "Maria Rodriguez",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmLlgb_Am5K_45SxRSykcmif5C_y89mRQbbLg4Kqwpy40-1AYCFegxoF47VI8cTiLIIY&usqp=CAU",
+    "experience": 7,
+    "social": {
+      "facebook": "https://facebook.com/maria",
+      "instagram": "https://instagram.com/maria",
+      "twitter": "https://twitter.com/maria"
+    },
+    "bio": "Cardio and endurance trainer helping clients reach their fitness goals.",
+    "expertise": ["Cardio", "HIIT", "Endurance"],
+    "slots": ["10:00 AM", "1:00 PM", "5:00 PM"]
+  },
+  {
+    "id": "3",
+    "name": "David Kim",
+    "image": "https://img.freepik.com/free-photo/young-adult-doing-indoor-sport-gym_23-2149205542.jpg?semt=ais_hybrid&w=740",
+    "experience": 8,
+    "social": {
+      "facebook": "https://facebook.com/david",
+      "instagram": "https://instagram.com/david",
+      "twitter": "https://twitter.com/david"
+    },
+    "bio": "CrossFit specialist with high energy group training experience.",
+    "expertise": ["CrossFit", "Mobility", "Strength"],
+    "slots": ["8:00 AM", "2:00 PM", "4:00 PM"]
+  },
+  {
+    "id": "4",
+    "name": "Sarah Lee",
+    "image": "https://www.shutterstock.com/image-photo/portrait-female-personal-trainer-standing-260nw-2447721673.jpg",
+    "experience": 6,
+    "social": {
+      "facebook": "https://facebook.com/sarah",
+      "instagram": "https://instagram.com/sarah",
+      "twitter": "https://twitter.com/sarah"
+    },
+    "bio": "Yoga instructor focused on mental and physical wellbeing.",
+    "expertise": ["Yoga", "Meditation", "Breathing Techniques"],
+    "slots": ["7:00 AM", "12:00 PM", "6:00 PM"]
+  }
+]
