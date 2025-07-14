@@ -1,12 +1,39 @@
-# React + Vite
+# 🏋️ Gym Base Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Gym Base**, a modern fitness web application frontend built with **React**, **Vite**, and **Tailwind CSS**. This project showcases featured classes, user interactions, and dynamic components using the latest tools and libraries.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **React 19** – Component-based UI
+- **Vite 7** – Lightning-fast dev server and build tool
+- **Tailwind CSS 4** – Utility-first styling
+- **React Router 7** – Seamless page routing
+- **Firebase** – Authentication and hosting
+- **Axios** – API requests
+- **Swiper / Carousel** – Responsive sliders
+- **Flowbite** – Pre-styled Tailwind components
+- **SweetAlert2** – Beautiful alert popups
+- **React Icons** – Icon library
+- **ESLint** – Linting and code quality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Dependencies
+
+```json
+"dependencies": {
+  "@tailwindcss/vite": "^4.1.11",
+  "axios": "^1.10.0",
+  "firebase": "^11.10.0",
+  "flowbite": "^3.1.2",
+  "react": "^19.1.0",
+  "react-dom": "^19.1.0",
+  "react-icons": "^5.5.0",
+  "react-responsive-carousel": "^3.2.23",
+  "react-router": "^7.6.3",
+  "sweetalert2": "^11.22.2",
+  "swiper": "^11.2.10",
+  "tailwindcss": "^4.1.11"
+}
