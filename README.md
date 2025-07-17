@@ -3,8 +3,12 @@
 Welcome to **Gym Base**, a modern fitness web application frontend built with **React**, **Vite**, and **Tailwind CSS**. This project showcases featured classes, user interactions, and dynamic components using the latest tools and libraries.
 
 ---
+🌍 Live Demo
+👉 https://gym-base-client-demo.netlify.app
 
+Replace with your actual deployment link
 ## 🚀 Tech Stack
+
 
 - **React 19** – Component-based UI
 - **Vite 7** – Lightning-fast dev server and build tool

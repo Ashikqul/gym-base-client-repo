@@ -6,7 +6,7 @@ const useAxiosSecure = () => {
   const { user } = useAuth();
   console.log(user) // যদি দরকার হয়
   const axiosSecure = axios.create({
-    baseURL: 'http://localhost:5000/api', // তোমার API root
+    baseURL: 'https://gym-base-server.vercel.app/', // তোমার API root
   });
 
   // Add token in headers (optional)
